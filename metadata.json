@@ -1,6 +1,6 @@
 {
   "name": "Universal IoT Architect",
-  "description": "An AI assistant specialized in universal embedded systems architecture, MicroPython, and full-stack IoT development.",
+  "description": "An AI assistant specialized in universal embedded systems architecture, circuit design, MicroPython, and full-stack IoT development.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

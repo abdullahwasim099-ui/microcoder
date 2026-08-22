@@ -36,11 +36,15 @@ export default function App() {
           <ul className="space-y-3 text-slate-300">
             <li className="flex items-start gap-3">
               <span className="text-emerald-500 mt-1">▹</span>
-              <span><strong>Supported MCUs:</strong> RP2040/2350, ESP32/8266, ARM Cortex-M (STM32, nRF), RISC-V, AVR, & more.</span>
+              <span><strong>Supported MCUs:</strong> RP2040/2350, ESP32/8266, ARM Cortex-M, RISC-V, AVR, & more.</span>
             </li>
             <li className="flex items-start gap-3">
               <span className="text-emerald-500 mt-1">▹</span>
-              <span><strong>Hardware:</strong> I2C, SPI, UART, PWM, ADC, PIO protocols with precise logic level checks.</span>
+              <span><strong>Hardware Engineering:</strong> ASCII Schematics, BOM generation, precise component calculations.</span>
+            </li>
+            <li className="flex items-start gap-3">
+              <span className="text-emerald-500 mt-1">▹</span>
+              <span><strong>Circuit & Power:</strong> Logic level safety checks, power budgets, and current draw estimates.</span>
             </li>
             <li className="flex items-start gap-3">
               <span className="text-emerald-500 mt-1">▹</span>
@@ -48,7 +52,7 @@ export default function App() {
             </li>
             <li className="flex items-start gap-3">
               <span className="text-emerald-500 mt-1">▹</span>
-              <span><strong>Full-Stack IoT:</strong> Async socket servers & responsive vanilla HTML/JS web interfaces.</span>
+              <span><strong>Full-Stack IoT:</strong> Async socket servers, self-contained HTML/JS dashboards, & embedded user guides.</span>
             </li>
           </ul>
         </div>
